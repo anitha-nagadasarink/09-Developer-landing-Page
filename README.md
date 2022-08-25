@@ -22,8 +22,8 @@ I took 3 hours to complete the project with responsive
 
 ### Demo :
 
-![Web Site Image](https://github.com/anitha-nagadasarink/08-Web-Design-Landing-Page/blob/HTML-CSS-Projects/images/demo.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/09-Developer-landing-Page/blob/HTML-CSS-Projects/Assets/demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://web-design-wedpage.netlify.app/)
+[Live Link !](https://new-developer-webpage.netlify.app/)
